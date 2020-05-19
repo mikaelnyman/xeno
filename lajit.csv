@@ -1,0 +1,483 @@
+lyh	sci	fi	sv	en
+CYGOLO	Cygnus olor	kyhmyjoutsen	knölsvan	Mute Swan
+CYGCOL	Cygnus columbianus	pikkujoutsen	mindre sångsvan	Tundra Swan
+CYGCYG	Cygnus cygnus	laulujoutsen	sångsvan	Whooper Swan
+ANSFAB	Anser fabalis	metsähanhi	sädgås	Bean Goose
+ANSBRA	Anser brachyrhynchus	lyhytnokkahanhi	spetsbergsgås	Pink-footed Goose
+ANSALB	Anser albifrons	tundrahanhi	bläsgås	Greater White-fronted Goose
+ANSERY	Anser erythropus	kiljuhanhi	fjällgås	Lesser White-fronted Goose
+ANSANS	Anser anser	merihanhi	grågås	Greylag Goose
+ANSIND	Anser indicus	tiibetinhanhi	stripgås	Bar-headed Goose
+BRACAN	Branta canadensis	kanadanhanhi	kanadagås	Canada Goose
+BRAHUT	Branta hutchinsii	pikkukanadanhanhi	dvärgkanadagås	Cackling Goose
+BRALEU	Branta leucopsis	valkoposkihanhi	vitkindad gås	Barnacle Goose
+BRABER	Branta bernicla	sepelhanhi	prutgås	Brant Goose
+BRARUF	Branta ruficollis	punakaulahanhi	rödhalsad gås	Red-breasted Goose
+TADFER	Tadorna ferruginea	ruostesorsa	rostand	Ruddy Shelduck
+TADTAD	Tadorna tadorna	ristisorsa	gravand	Common Shelduck
+AIXGAL	Aix galericulata	mandariinisorsa	mandarinand	Mandarin Duck
+ANAPEN	Anas penelope	haapana	bläsand	Eurasian Wigeon
+ANAAME	Anas americana	amerikanhaapana	amerikansk bläsand	American Wigeon
+ANASTR	Anas strepera	harmaasorsa	snatterand	Gadwall
+ANAFOR	Anas formosa	siperiantavi	gulkindad kricka	Baikal Teal
+ANACRE	Anas crecca	tavi	kricka	Eurasian Teal
+ANACAR	Anas carolinensis	amerikantavi	amerikansk kricka	Green-winged Teal
+ANAPLA	Anas platyrhynchos	sinisorsa	gräsand	Mallard
+ANARUB	Anas rubripes	nokisorsa	svartand	American Black Duck
+ANAACU	Anas acuta	jouhisorsa	stjärtand	Northern Pintail
+ANAQUE	Anas querquedula	heinätavi	årta	Garganey
+ANADIS	Anas discors	sinisiipitavi	blåvingad årta	Blue-winged Teal
+ANACLY	Anas clypeata	lapasorsa	skedand	Northern Shoveler
+NETRUF	Netta rufina	punapäänarsku	rödhuvad dykand	Red-crested Pochard
+AYTFER	Aythya ferina	punasotka	brunand	Common Pochard
+AYTCOL	Aythya collaris	amerikantukkasotka	ringand	Ring-necked Duck
+AYTNYR	Aythya nyroca	ruskosotka	vitögd dykand	Ferruginous Duck
+AYTFUL	Aythya fuligula	tukkasotka	vigg	Tufted Duck
+AYTMAR	Aythya marila	lapasotka	bergand	Greater Scaup
+AYTAFF	Aythya affinis	pikkulapasotka	mindre bergand	Lesser Scaup
+SOMMOL	Somateria mollissima	haahka	ejder	Common Eider
+SOMSPE	Somateria spectabilis	kyhmyhaahka	praktejder	King Eider
+POLSTE	Polysticta stelleri	allihaahka	alförrädare	Steller's Eider
+HISHIS	Histrionicus histrionicus	virta-alli	strömand	Harlequin Duck
+CLAHYE	Clangula hyemalis	alli	alfågel	Long-tailed Duck
+MELNIG	Melanitta nigra	mustalintu	sjöorre	Common Scoter
+MELAME	Melanitta americana	amerikanmustalintu	amerikansk sjöorre	Black Scoter
+MELPER	Melanitta perspicillata	pilkkaniska	vitnackad svärta	Surf Scoter
+MELFUS	Melanitta fusca	pilkkasiipi	svärta	Velvet Scoter
+MELDEG	Melanitta deglandi	kyhmypilkkasiipi	knölsvärta	White-winged Scoter
+BUCCLA	Bucephala clangula	telkkä	knipa	Common Goldeneye
+MERALB	Mergellus albellus	uivelo	salskrake	Smew
+MERSER	Mergus serrator	tukkakoskelo	småskrake	Red-breasted Merganser
+MERMER	Mergus merganser	isokoskelo	storskrake	Common Merganser
+OXYJAM	Oxyura jamaicensis	kuparisorsa	amerikansk kopparand	Ruddy Duck
+COTCOT	Coturnix coturnix	viiriäinen	vaktel	Common Quail
+TETBON	Tetrastes bonasia	pyy	järpe	Hazel Grouse
+LAGLAG	Lagopus lagopus	riekko	dalripa	Willow Ptarmigan
+LAGMUT	Lagopus muta	kiiruna	fjällripa	Rock Ptarmigan
+TETRIX	Tetrao tetrix	teeri	orre	Black Grouse
+TETURO	Tetrao urogallus	metso	tjäder	Western Capercaillie
+PERPER	Perdix perdix	peltopyy	rapphöna	Grey Partridge
+PHACOL	Phasianus colchicus	fasaani	fasan	Common Pheasant
+GAVSTE	Gavia stellata	kaakkuri	smålom	Red-throated Loon
+GAVARC	Gavia arctica	kuikka	storlom	Black-throated Loon
+GAVPAC	Gavia pacifica	tundrakuikka	stillahavslom	Pacific Loon
+GAVIMM	Gavia immer	amerikanjääkuikka	svartnäbbad islom	Great Northern Loon
+GAVADA	Gavia adamsii	jääkuikka	vitnäbbad islom	Yellow-billed Loon
+TACRUF	Tachybaptus ruficollis	pikku-uikku	smådopping	Little Grebe
+PODCRI	Podiceps cristatus	silkkiuikku	skäggdopping	Great Crested Grebe
+PODGRI	Podiceps grisegena	härkälintu	gråhakedopping	Red-necked Grebe
+PODAUR	Podiceps auritus	mustakurkku-uikku	svarthakedopping	Horned Grebe
+PODNIG	Podiceps nigricollis	mustakaulauikku	svarthalsad dopping	Black-necked Grebe
+FULGLA	Fulmarus glacialis	myrskylintu	stormfågel	Northern Fulmar
+PUFGRI	Puffinus griseus	nokiliitäjä	grålira	Sooty Shearwater
+PUFPUF	Puffinus puffinus	pikkuliitäjä	mindre lira	Manx Shearwater
+HYDPEL	Hydrobates pelagicus	merikeiju	stormsvala	European Storm Petrel
+OCELEU	Oceanodroma leucorhoa	myrskykeiju	klykstjärtad stormsvala	Leach's Storm Petrel
+OCECAS	Oceanodroma castro	madeirankeiju	oceanlöpare	Band-rumped Storm Petrel
+MORBAS	Morus bassanus	suula	havssula	Northern Gannet
+PHACAR	Phalacrocorax carbo	merimetso	storskarv	Great Cormorant
+PHAARI	Phalacrocorax aristotelis	karimetso	toppskarv	European Shag
+PELONO	Pelecanus onocrotalus	pelikaani	vit pelikan	Great White Pelican
+BOTSTE	Botaurus stellaris	kaulushaikara	rördrom	Eurasian Bittern
+IXOMIN	Ixobrychus minutus	pikkuhaikara	dvärgrördrom	Little Bittern
+NYCNYC	Nycticorax nycticorax	yöhaikara	natthäger	Black-crowned Night Heron
+ARDRAL	Ardeola ralloides	rääkkähaikara	rallhäger	Squacco Heron
+BUBIBI	Bubulcus ibis	lehmähaikara	kohäger	Cattle Egret
+EGRGAR	Egretta garzetta	silkkihaikara	silkeshäger	Little Egret
+EGRALB	Egretta alba	jalohaikara	ägretthäger	Great Egret
+ARDCIN	Ardea cinerea	harmaahaikara	grå häger	Grey Heron
+ARDPUR	Ardea purpurea	ruskohaikara	purpurhäger	Purple Heron
+CICNIG	Ciconia nigra	mustahaikara	svart stork	Black Stork
+CICCIC	Ciconia ciconia	kattohaikara	vit stork	White Stork
+PLEFAL	Plegadis falcinellus	pronssi-iibis	bronsibis	Glossy Ibis
+PLALEU	Platalea leucorodia	kapustahaikara	skedstork	Eurasian Spoonbill
+PERAPI	Pernis apivorus	mehiläishaukka	bivråk	European Honey Buzzard
+MILMIG	Milvus migrans	haarahaukka	brun glada	Black Kite
+MILMIL	Milvus milvus	isohaarahaukka	röd glada	Red Kite
+HALLEU	Haliaeetus leucoryphus	aromerikotka	bandhavsörn	Pallas's Fish Eagle
+HALALB	Haliaeetus albicilla	merikotka	havsörn	White-tailed Eagle
+NEOPER	Neophron percnopterus	pikkukorppikotka	smutsgam	Egyptian Vulture
+GYPFUL	Gyps fulvus	hanhikorppikotka	gåsgam	Griffon Vulture
+AEGMON	Aegypius monachus	munkkikorppikotka	grågam	Cinereous Vulture
+CIRGAL	Circaetus gallicus	käärmekotka	ormörn	Short-toed Snake Eagle
+CIRAER	Circus aeruginosus	ruskosuohaukka	brun kärrhök	Western Marsh Harrier
+CIRCYA	Circus cyaneus	sinisuohaukka	blå kärrhök	Northern Harrier
+CIRMAC	Circus macrourus	arosuohaukka	stäpphök	Pallid Harrier
+CIRPYG	Circus pygargus	niittysuohaukka	ängshök	Montagu's Harrier
+ACCGEN	Accipiter gentilis	kanahaukka	duvhök	Northern Goshawk
+ACCNIS	Accipiter nisus	varpushaukka	sparvhök	Eurasian Sparrowhawk
+BUTBUT	Buteo buteo	hiirihaukka	ormvråk	Common Buzzard
+BUTRUF	Buteo rufinus	arohiirihaukka	örnvråk	Long-legged Buzzard
+BUTLAG	Buteo lagopus	piekana	fjällvråk	Rough-legged Buzzard
+AQUCLA	Aquila clanga	kiljukotka	större skrikörn	Greater Spotted Eagle
+AQUPOM	Aquila pomarina	pikkukiljukotka	mindre skrikörn	Lesser Spotted Eagle
+AQUPEN	Aquila pennata	pikkukotka	dvärgörn	Booted Eagle
+AQUCHR	Aquila chrysaetos	maakotka	kungsörn	Golden Eagle
+AQUNIP	Aquila nipalensis	arokotka	stäppörn	Steppe Eagle
+AQUHEL	Aquila heliaca	keisarikotka	kejsarörn	Eastern Imperial Eagle
+PANHAL	Pandion haliaetus	sääksi	fiskgjuse	Osprey
+FALNAU	Falco naumanni	pikkutuulihaukka	rödfalk	Lesser Kestrel
+FALTIN	Falco tinnunculus	tuulihaukka	tornfalk	Common Kestrel
+FALVES	Falco vespertinus	punajalkahaukka	aftonfalk	Red-footed Falcon
+FALCOL	Falco columbarius	ampuhaukka	stenfalk	Merlin
+FALSUB	Falco subbuteo	nuolihaukka	lärkfalk	Eurasian Hobby
+FALELE	Falco eleonorae	välimerenhaukka	eleonorafalk	Eleonora's Falcon
+FALCHE	Falco cherrug	aavikkohaukka	tatarfalk	Saker Falcon
+FALRUS	Falco rusticolus	tunturihaukka	jaktfalk	Gyrfalcon
+FALPER	Falco peregrinus	muuttohaukka	pilgrimsfalk	Peregrine Falcon
+RALAQU	Rallus aquaticus	luhtakana	vattenrall	Water Rail
+PORPOR	Porzana porzana	luhtahuitti	småfläckig sumphöna	Spotted Crake
+PORPAR	Porzana parva	pikkuhuitti	mindre sumphöna	Little Crake
+PORPUS	Porzana pusilla	kääpiöhuitti	dvärgsumphöna	Baillon's Crake
+CRECRE	Crex crex	ruisrääkkä	kornknarr	Corn Crake
+GALCHL	Gallinula chloropus	liejukana	rörhöna	Common Moorhen
+PORALL	Porphyrio alleni	kurnuliejukana	mindre sultanhöna	Allen's Gallinule
+FULATR	Fulica atra	nokikana	sothöna	Eurasian Coot
+GRUGRU	Grus grus	kurki	trana	Common Crane
+GRUCAN	Grus canadensis	hietakurki	prärietrana	Sandhill Crane
+GRUVIR	Grus virgo	neitokurki	jungfrutrana	Demoiselle Crane
+TETRAX	Tetrax tetrax	pikkutrappi	småtrapp	Little Bustard
+CHLMAC	Chlamydotis macqueenii	idänkaulustrappi	kragtrapp	Macqueen's Bustard
+OTITAR	Otis tarda	isotrappi	stortrapp	Great Bustard
+BUROED	Burhinus oedicnemus	paksujalka	tjockfot	Eurasian Stone-curlew
+HIMHIM	Himantopus himantopus	pitkäjalka	styltlöpare	Black-winged Stilt
+RECAVO	Recurvirostra avosetta	avosetti	skärfläcka	Pied Avocet
+HAEOST	Haematopus ostralegus	meriharakka	strandskata	Eurasian Oystercatcher
+PLUFUL	Pluvialis fulva	siperiankurmitsa	sibirisk tundrapipare	Pacific Golden Plover
+PLUDOM	Pluvialis dominica	amerikankurmitsa	amerikansk tundrapipare	American Golden Plover
+PLUAPR	Pluvialis apricaria	kapustarinta	ljungpipare	European Golden Plover
+PLUSQU	Pluvialis squatarola	tundrakurmitsa	kustpipare	Grey Plover
+VANGRE	Vanellus gregarius	arohyyppä	stäppvipa	Sociable Lapwing
+VANLEU	Vanellus leucurus	suohyyppä	sumpvipa	White-tailed Lapwing
+VANVAN	Vanellus vanellus	töyhtöhyyppä	tofsvipa	Northern Lapwing
+CHADUB	Charadrius dubius	pikkutylli	mindre strandpipare	Little Ringed Plover
+CHAHIA	Charadrius hiaticula	tylli	större strandpipare	Common Ringed Plover
+CHAALE	Charadrius alexandrinus	mustajalkatylli	svartbent strandpipare	Kentish Plover
+CHAMON	Charadrius mongolus	ylänkötylli	mongolpipare	Lesser Sand Plover
+CHALES	Charadrius leschenaultii	aavikkotylli	ökenpipare	Greater Sand Plover
+CHAASI	Charadrius asiaticus	kaspiantylli	kaspisk pipare	Caspian Plover
+CHAVER	Charadrius veredus	gobintylli	orientpipare	Oriental Plover
+CHAMOR	Charadrius morinellus	keräkurmitsa	fjällpipare	Eurasian Dotterel
+BARLON	Bartramia longicauda	preeriakahlaaja	piparsnäppa	Upland Sandpiper
+NUMMIN	Numenius minutus	taigakuovi	dvärgspov	Little Curlew
+NUMPHA	Numenius phaeopus	pikkukuovi	småspov	Whimbrel
+NUMARQ	Numenius arquata	kuovi	storspov	Eurasian Curlew
+LIMLIM	Limosa limosa	mustapyrstökuiri	rödspov	Black-tailed Godwit
+LIMLAP	Limosa lapponica	punakuiri	myrspov	Bar-tailed Godwit
+AREINT	Arenaria interpres	karikukko	roskarl	Ruddy Turnstone
+CALCAN	Calidris canutus	isosirri	kustsnäppa	Red Knot
+CALPUG	Calidris pugnax	suokukko	brushane	Ruff
+CALACU	Calidris acuminata	suippopyrstösirri	spetsstjärtad snäppa	Sharp-tailed Sandpiper
+CALFAL	Calidris falcinellus	jänkäsirriäinen	myrsnäppa	Broad-billed Sandpiper
+CALFER	Calidris ferruginea	kuovisirri	spovsnäppa	Curlew Sandpiper
+CALHIM	Calidris himantopus	pitkäkoipisirri	styltsnäppa	Stilt Sandpiper
+CALRCO	Calidris ruficollis	rusokaulasirri	rödhalsad snäppa	Red-necked Stint
+CALSMI	Calidris subminuta	siperiansirri	långtåsnäppa	Long-toed Stint
+CALTEM	Calidris temminckii	lapinsirri	mosnäppa	Temminck's Stint
+CALALB	Calidris alba	pulmussirri	sandlöpare	Sanderling
+CALALP	Calidris alpina	suosirri	kärrsnäppa	Dunlin
+CALMAR	Calidris maritima	merisirri	skärsnäppa	Purple Sandpiper
+CALBAI	Calidris bairdii	eskimosirri	gulbröstad snäppa	Baird's Sandpiper
+CALUTA	Calidris minuta	pikkusirri	småsnäppa	Little Stint
+CALFUS	Calidris fuscicollis	valkoperäsirri	vitgumpsnäppa	White-rumped Sandpiper
+CALLLA	Calidris minutilla	amerikansirri	dvärgsnäppa	Least Sandpiper
+CALSRU	Calidris subruficollis	tundravikla	prärielöpare	Buff-breasted Sandpiper
+CALMEL	Calidris melanotos	palsasirri	tuvsnäppa	Pectoral Sandpiper
+PHATRI	Phalaropus tricolor	amerikanvesipääsky	wilsonsimsnäppa	Wilson's Phalarope
+PHALOB	Phalaropus lobatus	vesipääsky	smalnäbbad simsnäppa	Red-necked Phalarope
+PHAFUL	Phalaropus fulicarius	isovesipääsky	brednäbbad simsnäppa	Red Phalarope
+XENCIN	Xenus cinereus	rantakurvi	tereksnäppa	Terek Sandpiper
+ACTHYP	Actitis hypoleucos	rantasipi	drillsnäppa	Common Sandpiper
+ACTMAC	Actitis macularius	amerikansipi	fläckdrillsnäppa	Spotted Sandpiper
+TRIOCH	Tringa ochropus	metsäviklo	skogssnäppa	Green Sandpiper
+TRIERY	Tringa erythropus	mustaviklo	svartsnäppa	Spotted Redshank
+TRINEB	Tringa nebularia	valkoviklo	gluttsnäppa	Common Greenshank
+TRIFLA	Tringa flavipes	keltajalkaviklo	mindre gulbena	Lesser Yellowlegs
+TRISEM	Tringa semipalmata	preeriaviklo	willet	Willet
+TRISTA	Tringa stagnatilis	lampiviklo	dammsnäppa	Marsh Sandpiper
+TRIGLA	Tringa glareola	liro	grönbena	Wood Sandpiper
+TRITOT	Tringa totanus	punajalkaviklo	rödbena	Common Redshank
+LYMMIN	Lymnocryptes minimus	jänkäkurppa	dvärgbeckasin	Jack Snipe
+LIMSCO	Limnodromus scolopaceus	tundrakurppelo	större beckasinsnäppa	Long-billed Dowitcher
+SCORUS	Scolopax rusticola	lehtokurppa	morkulla	Eurasian Woodcock
+GALGAL	Gallinago gallinago	taivaanvuohi	enkelbeckasin	Common Snipe
+GALDEL	Gallinago delicata	amerikantaivaanvuohi	wilsonbeckasin	Wilson's Snipe
+GALMED	Gallinago media	heinäkurppa	dubbelbeckasin	Great Snipe
+GALMEG	Gallinago megala	siperiankurppa	tajgabeckasin	Swinhoe's Snipe
+GLAPRA	Glareola pratincola	pääskykahlaaja	rödvingad vadarsvala	Collared Pratincole
+GLAMAL	Glareola maldivarum	aasianpääskykahlaaja	orientvadarsvala	Oriental Pratincole
+GLANOR	Glareola nordmanni	aropääskykahlaaja	svartvingad vadarsvala	Black-winged Pratincole
+CURCUR	Cursorius cursor	aavikkojuoksija	ökenlöpare	Cream-colored Courser
+STEPOM	Stercorarius pomarinus	leveäpyrstökihu	bredstjärtad labb	Pomarine Skua
+STECUS	Stercorarius parasiticus	merikihu	kustlabb	Parasitic Jaeger
+STELON	Stercorarius longicaudus	tunturikihu	fjällabb	Long-tailed Jaeger
+STESKU	Stercorarius skua	isokihu	storlabb	Great Skua
+FRAARC	Fratercula arctica	lunni	lunnefågel	Atlantic Puffin
+CEPGRY	Cepphus grylle	riskilä	tobisgrissla	Black Guillemot
+ALCTOR	Alca torda	ruokki	tordmule	Razorbill
+ALLALL	Alle alle	pikkuruokki	alkekung	Little Auk
+URIAAL	Uria aalge	etelänkiisla	sillgrissla	Common Murre
+URILOM	Uria lomvia	pohjankiisla	spetsbergsgrissla	Thick-billed Murre
+STEALB	Sternula albifrons	pikkutiira	småtärna	Little Tern
+GELNIL	Gelochelidon nilotica	hietatiira	sandtärna	Gull-billed Tern
+HYDCAS	Hydroprogne caspia	räyskä	skräntärna	Caspian Tern
+CHLHYB	Chlidonias hybrida	valkoposkitiira	skäggtärna	Whiskered Tern
+CHLNIG	Chlidonias niger	mustatiira	svarttärna	Black Tern
+CHLLEU	Chlidonias leucopterus	valkosiipitiira	vitvingad tärna	White-winged Tern
+STESAN	Sterna sandvicensis	riuttatiira	kentsk tärna	Sandwich Tern
+STEHIR	Sterna hirundo	kalatiira	fisktärna	Common Tern
+STEAEA	Sterna paradisaea	lapintiira	silvertärna	Arctic Tern
+HYDMIN	Hydrocoloeus minutus	pikkulokki	dvärgmås	Little Gull
+RHOROS	Rhodostethia rosea	ruusulokki	rosenmås	Ross's Gull
+PAGEBU	Pagophila eburnea	jäälokki	ismås	Ivory Gull
+XEMSAB	Xema sabini	tiiralokki	tärnmås	Sabine's Gull
+RISTRI	Rissa tridactyla	pikkukajava	tretåig mås	Black-legged Kittiwake
+LARGEN	Larus genei	kaitanokkalokki	långnäbbad mås	Slender-billed Gull
+LARRID	Larus ridibundus	naurulokki	skrattmås	Black-headed Gull
+LARATR	Larus atricilla	nokisiipilokki	sotvingad mås	Laughing Gull
+LARPIP	Larus pipixcan	preerianaurulokki	präriemås	Franklin's Gull
+LARAUD	Larus audouinii	välimerenlokki	rödnäbbad trut	Audouin's Gull
+LARMEL	Larus melanocephalus	mustanmerenlokki	svarthuvad mås	Mediterranean Gull
+LARCAN	Larus canus	kalalokki	fiskmås	Mew Gull
+LARFUS	Larus fuscus	selkälokki	silltrut	Lesser Black-backed Gull
+LARARG	Larus argentatus	harmaalokki	gråtrut	European Herring Gull
+LARCAC	Larus cachinnans	aroharmaalokki	kaspisk trut	Caspian Gull
+LARMIC	Larus michahellis	etelänharmaalokki	medelhavstrut	Yellow-legged Gull
+LARSCH	Larus schistisagus	ohotanlokki	skiffertrut	Slaty-backed Gull
+LARGLA	Larus glaucoides	grönlanninlokki	vitvingad trut	Iceland Gull
+LARHYP	Larus hyperboreus	isolokki	vittrut	Glaucous Gull
+LARMAR	Larus marinus	merilokki	havstrut	Great Black-backed Gull
+SYRPAR	Syrrhaptes paradoxus	arokyyhky	stäppflyghöna	Pallas's Sandgrouse
+COLLIV	Columba livia	kalliokyyhky	klippduva	Common Pigeon
+COLOEN	Columba oenas	uuttukyyhky	skogsduva	Stock Dove
+COLPAL	Columba palumbus	sepelkyyhky	ringduva	Common Wood Pigeon
+STRDEC	Streptopelia decaocto	turkinkyyhky	turkduva	Eurasian Collared Dove
+STRTUR	Streptopelia turtur	turturikyyhky	turturduva	European Turtle Dove
+STRORI	Streptopelia orientalis	idänturturikyyhky	större turturduva	Oriental Turtle Dove
+CLAGLA	Clamator glandarius	harakkakäki	skatgök	Great Spotted Cuckoo
+CUCCAN	Cuculus canorus	käki	gök	Common Cuckoo
+CUCSAT	Cuculus saturatus	idänkäki	tajgagök	Oriental Cuckoo
+TYTALB	Tyto alba	tornipöllö	tornuggla	Barn Owl
+OTUSCO	Otus scops	kyläpöllönen	dvärguv	Eurasian Scops Owl
+BUBBUB	Bubo bubo	huuhkaja	berguv	Eurasian Eagle Owl
+BUBSCA	Bubo scandiacus	tunturipöllö	fjälluggla	Snowy Owl
+SURULU	Surnia ulula	hiiripöllö	hökuggla	Northern Hawk Owl
+GLAPAS	Glaucidium passerinum	varpuspöllö	sparvuggla	Eurasian Pygmy Owl
+ATHNOC	Athene noctua	minervanpöllö	minervauggla	Little Owl
+STRALU	Strix aluco	lehtopöllö	kattuggla	Tawny Owl
+STRURA	Strix uralensis	viirupöllö	slaguggla	Ural Owl
+STRNEB	Strix nebulosa	lapinpöllö	lappuggla	Great Grey Owl
+ASIOTU	Asio otus	sarvipöllö	hornuggla	Long-eared Owl
+ASIFLA	Asio flammeus	suopöllö	jorduggla	Short-eared Owl
+AEGFUN	Aegolius funereus	helmipöllö	pärluggla	Boreal Owl
+CAPEUR	Caprimulgus europaeus	kehrääjä	nattskärra	European Nightjar
+HIRCAU	Hirundapus caudacutus	piikkipyrstökiitäjä	taggstjärtseglare	White-throated Needletail
+APUAPU	Apus apus	tervapääsky	tornseglare	Common Swift
+APUPAL	Apus pallidus	vaaleakiitäjä	blek tornseglare	Pallid Swift
+APUMEL	Apus melba	alppikiitäjä	alpseglare	Alpine Swift
+APUCAF	Apus caffer	häätökiitäjä	kafferseglare	White-rumped Swift
+ALCATT	Alcedo atthis	kuningaskalastaja	kungsfiskare	Common Kingfisher
+MERAPI	Merops apiaster	mehiläissyöjä	biätare	European Bee-eater
+MERPER	Merops persicus	vihermehiläissyöjä	grön biätare	Blue-cheeked Bee-eater
+CORGAR	Coracias garrulus	sininärhi	blåkråka	European Roller
+UPUEPO	Upupa epops	harjalintu	härfågel	Hoopoe
+JYNTOR	Jynx torquilla	käenpiika	göktyta	Eurasian Wryneck
+PICCAN	Picus canus	harmaapäätikka	gråspett	Grey-headed Woodpecker
+PICVIR	Picus viridis	vihertikka	gröngöling	European Green Woodpecker
+DRYMAR	Dryocopus martius	palokärki	spillkråka	Black Woodpecker
+DENMAJ	Dendrocopos major	käpytikka	större hackspett	Great Spotted Woodpecker
+DENMED	Dendrocopos medius	tammitikka	mellanspett	Middle Spotted Woodpecker
+DENLEU	Dendrocopos leucotos	valkoselkätikka	vitryggig hackspett	White-backed Woodpecker
+DENMIN	Dendrocopos minor	pikkutikka	mindre hackspett	Lesser Spotted Woodpecker
+PICTRI	Picoides tridactylus	pohjantikka	tretåig hackspett	Three-toed Woodpecker
+MELCAL	Melanocorypha calandra	arokiuru	kalanderlärka	Calandra Lark
+MELBIM	Melanocorypha bimaculata	ylänkökiuru	asiatisk kalanderlärka	Bimaculated Lark
+MELLEU	Melanocorypha leucoptera	valkosiipikiuru	vitvingad lärka	White-winged Lark
+MELYEL	Melanocorypha yeltoniensis	mustakiuru	svartlärka	Black Lark
+CALBRA	Calandrella brachydactyla	lyhytvarvaskiuru	korttålärka	Greater Short-toed Lark
+CALENS	Calandrella rufescens	pikkukiuru	dvärglärka	Lesser Short-toed Lark
+GALCRI	Galerida cristata	töyhtökiuru	tofslärka	Crested Lark
+LULARB	Lullula arborea	kangaskiuru	trädlärka	Woodlark
+ALAARV	Alauda arvensis	kiuru	sånglärka	Eurasian Skylark
+EREALP	Eremophila alpestris	tunturikiuru	berglärka	Horned Lark
+RIPRIP	Riparia riparia	törmäpääsky	backsvala	Sand Martin
+PTYRUP	Ptyonoprogne rupestris	kalliopääsky	klippsvala	Eurasian Crag Martin
+HIRRUS	Hirundo rustica	haarapääsky	ladusvala	Barn Swallow
+DELURB	Delichon urbicum	räystäspääsky	hussvala	Common House Martin
+CECDAU	Cecropis daurica	ruostepääsky	rostgumpsvala	Red-rumped Swallow
+ANTRIC	Anthus richardi	isokirvinen	större piplärka	Richard's Pipit
+ANTGOD	Anthus godlewskii	mongoliankirvinen	mongolpiplärka	Blyth's Pipit
+ANTCAM	Anthus campestris	nummikirvinen	fältpiplärka	Tawny Pipit
+ANTHOD	Anthus hodgsoni	taigakirvinen	sibirisk piplärka	Olive-backed Pipit
+ANTTRI	Anthus trivialis	metsäkirvinen	trädpiplärka	Tree Pipit
+ANTGUS	Anthus gustavi	tundrakirvinen	tundrapiplärka	Pechora Pipit
+ANTPRA	Anthus pratensis	niittykirvinen	ängspiplärka	Meadow Pipit
+ANTCER	Anthus cervinus	lapinkirvinen	rödstrupig piplärka	Red-throated Pipit
+ANTPET	Anthus petrosus	luotokirvinen	skärpiplärka	Eurasian Rock Pipit
+MOTFLA	Motacilla flava	keltavästäräkki	gulärla	Yellow Wagtail
+MOTCIT	Motacilla citreola	sitruunavästäräkki	citronärla	Citrine Wagtail
+MOTCIN	Motacilla cinerea	virtavästäräkki	forsärla	Grey Wagtail
+MOTALB	Motacilla alba	västäräkki	sädesärla	White Wagtail
+BOMGAR	Bombycilla garrulus	tilhi	sidensvans	Bohemian Waxwing
+CINCIN	Cinclus cinclus	koskikara	strömstare	White-throated Dipper
+TROTRO	Troglodytes troglodytes	peukaloinen	gärdsmyg	Winter Wren
+PRUMOD	Prunella modularis	rautiainen	järnsparv	Dunnock
+PRUMON	Prunella montanella	taigarautiainen	sibirisk järnsparv	Siberian Accentor
+PRUATR	Prunella atrogularis	mustakurkkurautiainen	svartstrupig järnsparv	Black-throated Accentor
+PRUCOL	Prunella collaris	alppirautiainen	alpjärnsparv	Alpine Accentor
+CERGAL	Cercotrichas galactotes	ruostepyrstö	trädnäktergal	Rufous-tailed Scrub Robin
+ERIRUB	Erithacus rubecula	punarinta	rödhake	European Robin
+LUSLUS	Luscinia luscinia	satakieli	näktergal	Thrush Nightingale
+LUSMEG	Luscinia megarhynchos	etelänsatakieli	sydnäktergal	Common Nightingale
+LUSSVE	Luscinia svecica	sinirinta	blåhake	Bluethroat
+CALCAL	Calliope calliope	rubiinisatakieli	rubinnäktergal	Siberian Rubythroat
+TARCYA	Tarsiger cyanurus	sinipyrstö	tajgablåstjärt	Red-flanked Bluetail
+PHOOCH	Phoenicurus ochruros	mustaleppälintu	svart rödstjärt	Black Redstart
+PHOPHO	Phoenicurus phoenicurus	leppälintu	rödstjärt	Common Redstart
+SAXTRA	Saxicola rubetra	pensastasku	buskskvätta	Whinchat
+SAXCAP	Saxicola caprata	nokitasku	svart buskskvätt	Pied Bush Chat
+SAXMAU	Saxicola maurus	sepeltasku	vitgumpad buskskvätta	Siberian Stonechat
+SAXOLA	Saxicola rubicola	mustapäätasku	svarthakad buskskvätta	European Stonechat
+OENISA	Oenanthe isabellina	arotasku	isabellastenskvätta	Isabelline Wheatear
+OENOEN	Oenanthe oenanthe	kivitasku	stenskvätta	Northern Wheatear
+OENPLE	Oenanthe pleschanka	nunnatasku	nunnestenskvätta	Pied Wheatear
+OENHIS	Oenanthe hispanica	rusotasku	medelhavsstenskvätta	Black-eared Wheatear
+OENDES	Oenanthe deserti	aavikkotasku	ökenstenskvätta	Desert Wheatear
+MONSAX	Monticola saxatilis	kivikkorastas	stentrast	Common Rock Thrush
+MONSOL	Monticola solitarius	sinirastas	blåtrast	Blue Rock Thrush
+ZOODAU	Zoothera dauma	kirjorastas	guldtrast	White's Thrush
+CATUST	Catharus ustulatus	korpirastas	beigekindad skogstrast	Swainson's Thrush
+TURTOR	Turdus torquatus	sepelrastas	ringtrast	Ring Ouzel
+TURMER	Turdus merula	mustarastas	koltrast	Common Blackbird
+TUROBS	Turdus obscurus	harmaakurkkurastas	gråhalsad trast	Eyebrowed Thrush
+TURNAU	Turdus naumanni	ruosterastas	rödtrast	Naumann's Thrush
+TUREUN	Turdus eunomus	ruostesiipirastas	bruntrast	Dusky Thrush
+TURATR	Turdus atrogularis	mustakaularastas	svarthalsad trast	Black-throated Thrush
+TURPIL	Turdus pilaris	räkättirastas	björktrast	Fieldfare
+TURPHI	Turdus philomelos	laulurastas	taltrast	Song Thrush
+TURILI	Turdus iliacus	punakylkirastas	rödvingetrast	Redwing
+TURVIS	Turdus viscivorus	kulorastas	dubbeltrast	Mistle Thrush
+LOCCER	Locustella certhiola	sarasirkkalintu	starrsångare	Pallas's Grasshopper Warbler
+LOCLAN	Locustella lanceolata	viirusirkkalintu	träsksångare	Lanceolated Warbler
+LOCNAE	Locustella naevia	pensassirkkalintu	gräshoppsångare	Common Grasshopper Warbler
+LOCFLU	Locustella fluviatilis	viitasirkkalintu	flodsångare	River Warbler
+LOCLUS	Locustella luscinioides	ruokosirkkalintu	vassångare	Savi's Warbler
+IDUAED	Iduna aedon	paksunokkakerttunen	tjocknäbbad sångare	Thick-billed Warbler
+IDUCAL	Iduna caligata	pikkukultarinta	stäppsångare	Booted Warbler
+IDURAM	Iduna rama	aavikkokultarinta	saxaulsångare	Syke's Warbler
+IDUPAL	Iduna pallida	vaaleakultarinta	eksångare	Eastern Olivaceous Warbler
+HIPICT	Hippolais icterina	kultarinta	härmsångare	Icterine Warbler
+ACROLA	Acrocephalus paludicola	sarakerttunen	vattensångare	Aquatic Warbler
+ACRSCH	Acrocephalus schoenobaenus	ruokokerttunen	sävsångare	Sedge Warbler
+ACRAGR	Acrocephalus agricola	kenttäkerttunen	fältsångare	Paddyfield Warbler
+ACRDUM	Acrocephalus dumetorum	viitakerttunen	busksångare	Blyth's Reed Warbler
+ACRRIS	Acrocephalus palustris	luhtakerttunen	kärrsångare	Marsh Warbler
+ACRSCI	Acrocephalus scirpaceus	rytikerttunen	rörsångare	Eurasian Reed Warbler
+ACRARU	Acrocephalus arundinaceus	rastaskerttunen	trastsångare	Great Reed Warbler
+SYLUND	Sylvia undata	ruskokerttu	provencesångare	Dartford Warbler
+SYLCAN	Sylvia cantillans	rusorintakerttu	rödstrupig sångare	Subalpine Warbler
+SYLMEL	Sylvia melanocephala	samettipääkerttu	sammetshätta	Sardinian Warbler
+SYLRUP	Sylvia ruppeli	mustakurkkukerttu	svarthakad sångare	Rüppell's Warbler
+SYLNAN	Sylvia nana	kääpiökerttu	ökensångare	Asian Desert Warbler
+SYLNIS	Sylvia nisoria	kirjokerttu	höksångare	Barred Warbler
+SYLCUR	Sylvia curruca	hernekerttu	ärtsångare	Lesser Whitethroat
+SYLCOM	Sylvia communis	pensaskerttu	törnsångare	Common Whitethroat
+SYLBOR	Sylvia borin	lehtokerttu	trädgårdssångare	Garden Warbler
+SYLATR	Sylvia atricapilla	mustapääkerttu	svarthätta	Eurasian Blackcap
+PHYCOR	Phylloscopus coronatus	amurinuunilintu	östlig kronsångare	Eastern Crowned Warbler
+PHYNIT	Phylloscopus nitidus	kaukasianuunilintu	kaukasisk lundsångare	Green Warbler
+PHYPLU	Phylloscopus plumbeitarsus	burjatianuunilintu	sibirisk lundsångare	Two-barred Warbler
+PHYDES	Phylloscopus trochiloides	idänuunilintu	lundsångare	Greenish Warbler
+PHYBOR	Phylloscopus borealis	lapinuunilintu	nordsångare	Arctic Warbler
+PHYPRO	Phylloscopus proregulus	hippiäisuunilintu	kungsfågelsångare	Pallas's Leaf Warbler
+PHYINO	Phylloscopus inornatus	taigauunilintu	tajgasångare	Yellow-browed Warbler
+PHYHUM	Phylloscopus humei	kashmirinuunilintu	bergstajgasångare	Hume's Leaf Warbler
+PHYSCH	Phylloscopus schwarzi	siperianuunilintu	videsångare	Radde's Warbler
+PHYFUS	Phylloscopus fuscatus	ruskouunilintu	brunsångare	Dusky Warbler
+PHYBON	Phylloscopus bonelli	vuoriuunilintu	bergsångare	Western Bonelli's Warbler
+PHYORI	Phylloscopus orientalis	balkaninuunilintu	balkansångare	Eastern Bonelli's Warbler
+PHYSIB	Phylloscopus sibilatrix	sirittäjä	grönsångare	Wood Warbler
+PHYCOL	Phylloscopus collybita	tiltaltti	gransångare	Common Chiffchaff
+PHYIBE	Phylloscopus ibericus	iberiantiltaltti	iberisk gransångare	Iberian Chiffchaff
+PHYLUS	Phylloscopus trochilus	pajulintu	lövsångare	Willow Warbler
+REGREG	Regulus regulus	hippiäinen	kungsfågel	Goldcrest
+REGIGN	Regulus ignicapilla	tulipäähippiäinen	brandkronad kungsfågel	Common Firecrest
+MUSSTR	Muscicapa striata	harmaasieppo	grå flugsnappare	Spotted Flycatcher
+FICPAR	Ficedula parva	pikkusieppo	mindre flugsnappare	Red-breasted Flycatcher
+FICLLA	Ficedula albicilla	idänpikkusieppo	tajgaflugsnappare	Taiga Flycatcher
+FICALB	Ficedula albicollis	sepelsieppo	halsbandsflugsnappare	Collared Flycatcher
+FICHYP	Ficedula hypoleuca	kirjosieppo	svartvit flugsnappare	European Pied Flycatcher
+PANBIA	Panurus biarmicus	viiksitimali	skäggmes	Bearded Reedling
+AEGCAU	Aegithalos caudatus	pyrstötiainen	stjärtmes	Long-tailed Tit
+CYACYA	Cyanistes cyanus	valkopäätiainen	azurmes	Azure Tit
+CYACAE	Cyanistes caeruleus	sinitiainen	blåmes	Eurasian Blue Tit
+PARMAJ	Parus major	talitiainen	talgoxe	Great Tit
+PERATE	Periparus ater	kuusitiainen	svartmes	Coal Tit
+LOPCRI	Lophophanes cristatus	töyhtötiainen	tofsmes	European Crested Tit
+POEPAL	Poecile palustris	viitatiainen	entita	Marsh Tit
+POEMON	Poecile montanus	hömötiainen	talltita	Willow Tit
+POECIN	Poecile cinctus	lapintiainen	lappmes	Grey-headed Chickadee
+SITEUR	Sitta europaea	pähkinänakkeli	nötväcka	Eurasian Nuthatch
+CERFAM	Certhia familiaris	puukiipijä	trädkrypare	Eurasian Treecreeper
+REMPEN	Remiz pendulinus	pussitiainen	pungmes	Eurasian Penduline Tit
+ORIORI	Oriolus oriolus	kuhankeittäjä	sommargylling	Eurasian Golden Oriole
+LANISA	Lanius isabellinus	punapyrstölepinkäinen	isabellatörnskata	Isabelline Shrike
+LANCOL	Lanius collurio	pikkulepinkäinen	törnskata	Red-backed Shrike
+LANMIN	Lanius minor	mustaotsalepinkäinen	svartpannad törnskata	Lesser Grey Shrike
+LANEXC	Lanius excubitor	isolepinkäinen	varfågel	Great Grey Shrike
+LANMER	Lanius meridionalis	etelänisolepinkäinen	ökenvarfågel	Southern Grey Shrike
+LANSEN	Lanius senator	punapäälepinkäinen	rödhuvad törnskata	Woodchat Shrike
+LANNUB	Lanius nubicus	valko-otsalepinkäinen	masktörnskata	Masked Shrike
+GARGLA	Garrulus glandarius	närhi	nötskrika	Eurasian Jay
+PERINF	Perisoreus infaustus	kuukkeli	lavskrika	Siberian Jay
+PICPIC	Pica pica	harakka	skata	Common Magpie
+NUCCAR	Nucifraga caryocatactes	pähkinähakki	nötkråka	Spotted Nutcracker
+CORMON	Corvus monedula	naakka	kaja	Western Jackdaw
+CORDAU	Corvus dauuricus	idännaakka	klippkaja	Daurian Jackdaw
+CORFRU	Corvus frugilegus	mustavaris	råka	Rook
+CORNIX	Corvus corone cornix	varis	kråka	Hooded Crow
+CORRAX	Corvus corax	korppi	korp	Northern Raven
+STUVUL	Sturnus vulgaris	kottarainen	stare	Common Starling
+PASROS	Pastor roseus	punakottarainen	rosenstare	Rosy Starling
+PASDOM	Passer domesticus	varpunen	gråsparv	House Sparrow
+PASHIS	Passer hispaniolensis	pensasvarpunen	spansk sparv	Spanish Sparrow
+PASMON	Passer montanus	pikkuvarpunen	pilfink	Eurasian Tree Sparrow
+FRICOE	Fringilla coelebs	peippo	bofink	Common Chaffinch
+FRIMON	Fringilla montifringilla	järripeippo	bergfink	Brambling
+SERSER	Serinus serinus	keltahemppo	gulhämpling	European Serin
+SERCIT	Serinus citrinella	sitruunahemppo	citronsiska	Citril Finch
+CARCHL	Carduelis chloris	viherpeippo	grönfink	European Greenfinch
+CARCAR	Carduelis carduelis	tikli	steglits	European Goldfinch
+CARSPI	Carduelis spinus	vihervarpunen	grönsiska	Eurasian Siskin
+CARCAN	Carduelis cannabina	hemppo	hämpling	Common Linnet
+CARRIS	Carduelis flavirostris	vuorihemppo	vinterhämpling	Twite
+CARMEA	Carduelis flammea	urpiainen	gråsiska	Common Redpoll
+CARHOR	Carduelis hornemanni	tundraurpiainen	snösiska	Arctic Redpoll
+LOXLEU	Loxia leucoptera	kirjosiipikäpylintu	bändelkorsnäbb	Two-barred Crossbill
+LOXCUR	Loxia curvirostra	pikkukäpylintu	mindre korsnäbb	Red Crossbill
+LOXPYT	Loxia pytyopsittacus	isokäpylintu	större korsnäbb	Parrot Crossbill
+BUCGIT	Bucanetes githagineus	aavikkotulkku	ökentrumpetare	Trumpeter Finch
+CARERY	Carpodacus erythrinus	punavarpunen	rosenfink	Common Rosefinch
+PINENU	Pinicola enucleator	taviokuurna	tallbit	Pine Grosbeak
+PYRPYR	Pyrrhula pyrrhula	punatulkku	domherre	Eurasian Bullfinch
+COCCOC	Coccothraustes coccothraustes	nokkavarpunen	stenknäck	Hawfinch
+DENSTR	Dendroica striata	viirukerttuli	vitkindad skogssångare	Blackpoll Warbler
+PASILI	Passerella iliaca	kettusirkku	rävsparv	Fox Sparrow
+ZONALB	Zonotrichia albicollis	valkokurkkusirkku	vitstrupig sparv	White-throated Sparrow
+CALLAP	Calcarius lapponicus	lapinsirkku	lappsparv	Lapland Longspur
+PLENIV	Plectrophenax nivalis	pulmunen	snösparv	Snow Bunting
+EMBSPO	Emberiza spodocephala	harmaapääsirkku	gråhuvad sparv	Black-faced Bunting
+EMBLEU	Emberiza leucocephalos	mäntysirkku	tallsparv	Pine Bunting
+EMBCIT	Emberiza citrinella	keltasirkku	gulsparv	Yellowhammer
+EMBHOR	Emberiza hortulana	peltosirkku	ortolansparv	Ortolan Bunting
+EMBBUC	Emberiza buchanani	kivikkosirkku	bergortolan	Grey-necked Bunting
+EMBCAE	Emberiza caesia	ruostekurkkusirkku	rostsparv	Cretzschmar's Bunting
+EMBRUS	Emberiza rustica	pohjansirkku	videsparv	Rustic Bunting
+EMBPUS	Emberiza pusilla	pikkusirkku	dvärgsparv	Little Bunting
+EMBRUT	Emberiza rutila	kastanjasirkku	rödbrun sparv	Chestnut Bunting
+EMBAUR	Emberiza aureola	kultasirkku	gyllensparv	Yellow-breasted Bunting
+EMBSCH	Emberiza schoeniclus	pajusirkku	sävsparv	Common Reed Bunting
+EMBPAL	Emberiza pallasi	pikkupajusirkku	dvärgsävsparv	Pallas's Reed Bunting
+EMBBRU	Emberiza bruniceps	ruskopääsirkku	stäppsparv	Red-headed Bunting
+EMBMEL	Emberiza melanocephala	mustapääsirkku	svarthuvad sparv	Black-headed Bunting
+EMBCAL	Emberiza calandra	harmaasirkku	kornsparv	Corn Bunting
